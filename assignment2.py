@@ -1,6 +1,6 @@
-#------------
+#-------------------------------------
 #Alex Espinal programming assignment 2
-#------------
+#-------------------------------------
 # import numpy
 import numpy as nump
 
