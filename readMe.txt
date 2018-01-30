@@ -1,1 +1,5 @@
-This is my matrices assignment. 
+*****************************
+Alex Espinal
+*****************************
+
+This is my assignment 2 matrices program. 
